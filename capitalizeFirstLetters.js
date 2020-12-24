@@ -1,5 +1,3 @@
-const assert = require("assert");
-
 function capitalizeFirstLetters(input) {
   let output = "";
   for (let i = 0; i < input.length; i++) {

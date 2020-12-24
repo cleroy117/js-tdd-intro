@@ -1,4 +1,4 @@
-const assert = require("assert");
+/* const assert = require("assert");
 const capitalizeFirstLetters = require("../capitalizeFirstLetters");
 
 describe("capitalizeFirstLetters", () => {
@@ -25,4 +25,4 @@ describe("capitalizeFirstLetters", () => {
   it("works with a empty string", () => {
     assert.strictEqual(capitalizeFirstLetters(""), "");
   });
-});
+}); */
